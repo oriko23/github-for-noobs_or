@@ -1,6 +1,9 @@
 <script>
 
 var x=1;
+
+var z=2;
+
 consloe.log(x);
 
 </script>
