@@ -6,4 +6,6 @@ var z=2;
 
 consloe.log(x);
 
+
+consloe.log(z);
 </script>
