@@ -4,6 +4,8 @@ var x=1;
 
 var z=4;
 
+var q=5;
+
 consloe.log(x);
 
 
