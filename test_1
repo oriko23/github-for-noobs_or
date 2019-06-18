@@ -8,6 +8,7 @@ var q=5;
 
 consloe.log(x);
 
+var o=10;
 
 consloe.log(z);
 </script>
